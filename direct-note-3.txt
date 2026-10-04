@@ -1,0 +1,1 @@
+A direct default-branch commit, not delivered through a pull request.
